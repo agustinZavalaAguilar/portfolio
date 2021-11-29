@@ -2,7 +2,7 @@
 
 /*document.querySelector('h1').style.color = '#201F2E';*/
 
-/*document.querySelector('h1').style.fontFamily = 'serif';*/
+/*document.querySelector('h1').style.fontFamily = 'serif';
 
 let eventTarget = document.querySelector('h2');
 
@@ -12,4 +12,5 @@ eventTarget.addEventListener('mouseover', function(){
 
 eventTarget.addEventListener('mouseout', function(){
     eventTarget.style.color = '#fff';    
-});
+});*/
+
