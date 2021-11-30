@@ -27,9 +27,9 @@ span#highlight {
 @media (max-width: 481px) {
 
     h1 {
-        font-size: 3rem ;
+        font-size: 3em ;
         padding: 0;
-        margin-left: 1rem;
+        margin-left: 46%;
     }
 }
 /*------Links----------------*/
@@ -69,7 +69,9 @@ h2:hover {
 
     .link-container {
         padding: 12rem 0rem;
-        margin-left: 1rem;
+        margin-left: 15rem;
+        margin-top: 4rem;
+
     }
 }
 
@@ -100,8 +102,9 @@ h2:hover {
 
     .profile-image img {
         padding: 0;    
-        width: 100%;
+        width: 108%;
         /*overflow: hidden;*/
+        margin-left: -31%;
     }
     
     

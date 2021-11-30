@@ -7,7 +7,7 @@
 let aboutTarget = document.getElementById('about');
 
 aboutTarget.addEventListener('mouseover', function(){
-    aboutTarget.innerHTML = 'who I am'; 
+    aboutTarget.innerHTML = 'this is me'; 
     aboutTarget.style.fontSize = '5em';   
 });
 
