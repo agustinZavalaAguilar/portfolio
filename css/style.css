@@ -9,18 +9,25 @@ html, body {
     overflow: hidden
 }
 /*-------Header--------------*/
+div .intoduction {
 
+    /*font-family: sans-serif;*/
+}
 h1 {
     color: rgb(247, 185, 17);
-    position:fixed;
+    display: inline-block;
     z-index: 5;
-    /*font-family: sans-serif;*/
+    position:fixed;   
     font-size: 5.2em;
-    padding: 0 15rem;
-    
+    padding: 0 15rem;    
 }
 
-span#highlight {
+#highlight {
+    margin-top: 11%;
+}
+
+#greeting {
+    margin-top: 4git %;
     color: rgb(221, 226, 233);    
 }
 
@@ -102,7 +109,7 @@ h2:hover {
 
     .profile-image img {
         padding: 0;    
-        width: 108%;
+        width: 120%;
         /*overflow: hidden;*/
         margin-left: -31%;
     }
